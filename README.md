@@ -18,7 +18,7 @@ Additionally, I'm experienced in utilizing powerful data management tools such a
   - Supabase
   
   
-- 👯 I’m looking to collaborate on ...
+ 👯 I’m looking to collaborate on ...
   If you're interested in collaborating or discussing fascinating Backend projects, feel free to reach out. Let's join forces and create innovative solutions together!"
 
   Feel free to modify and adapt this text to best represent yourself and your aspirations as a Backend Developer
