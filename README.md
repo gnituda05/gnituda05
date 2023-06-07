@@ -1,5 +1,8 @@
-### Hi there 👋
 # Hello there! I'm Glenn 👋
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 Im am an enthusiastic Backend Developer with a strong focus on continuous learning and innovation. 
 My primary interests lie in exploring various techniques and technologies within the realms of NestJS and Python.
@@ -18,10 +21,22 @@ Additionally, I'm experienced in utilizing powerful data management tools such a
   - Supabase
   
   
- 👯 I’m looking to collaborate on ...
-  If you're interested in collaborating or discussing fascinating Backend projects, feel free to reach out. Let's join forces and create innovative solutions together!"
+👯 I’m looking to collaborate on:
+  If you're interested in collaborating or discussing fascinating Backend projects, feel free to reach out. Let's join forces and create innovative solutions together!
 
-  Feel free to modify and adapt this text to best represent yourself and your aspirations as a Backend Developer
+
+📫 How to reach me:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/glenn-michael-nituda-04a131168/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/glenn.nituda/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="gnituda05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
 <!--
 **gnituda05/gnituda05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
