@@ -7,7 +7,8 @@
 Im am an enthusiastic Backend Developer with a strong focus on continuous learning and innovation. 
 My primary interests lie in exploring various techniques and technologies within the realms of NestJS and Python.
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning:
+
 As a Backend Developer, I'm well-versed in a range of programming languages and tools.
 I have a solid command of:
  - NestJS TypeScript 
@@ -22,6 +23,9 @@ Additionally, I'm experienced in utilizing powerful data management tools such a
   
   
 👯 I’m looking to collaborate on:
+
+
+
   If you're interested in collaborating or discussing fascinating Backend projects, feel free to reach out. Let's join forces and create innovative solutions together!
 
 
