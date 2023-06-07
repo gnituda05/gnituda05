@@ -29,7 +29,7 @@ Additionally, I'm experienced in utilizing powerful data management tools such a
   If you're interested in collaborating or discussing fascinating Backend projects, feel free to reach out. Let's join forces and create innovative solutions together!
 
 
-                                                                    📫 How to reach me:
+📫 How to reach me:
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/glenn-michael-nituda-04a131168/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
