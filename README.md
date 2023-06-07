@@ -36,7 +36,7 @@ Additionally, I'm experienced in utilizing powerful data management tools such a
   <a href="https://www.facebook.com/glenn.nituda/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="gnituda05@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/popout?ver=1g3ytthb29lwb#th%253D%252523thread-a%25253Ar-394716387114332197">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
