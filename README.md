@@ -7,21 +7,21 @@ My primary interests lie in exploring various techniques and technologies within
 - 🌱 I’m currently learning ...
 As a Backend Developer, I'm well-versed in a range of programming languages and tools.
 I have a solid command of:
-- NestJS TypeScript 
-* Java 
-+ Python
+ - NestJS TypeScript 
+ * Java 
+ + Python
  
 Additionally, I'm experienced in utilizing powerful data management tools such as:
- - Prisma
- * PostgreSQL
- + PlanetScale
- - Supabase
+  - Prisma
+  * PostgreSQL
+  + PlanetScale
+  - Supabase
   
   
 - 👯 I’m looking to collaborate on ...
-If you're interested in collaborating or discussing fascinating Backend projects, feel free to reach out. Let's join forces and create innovative solutions together!"
+  If you're interested in collaborating or discussing fascinating Backend projects, feel free to reach out. Let's join forces and create innovative solutions together!"
 
-Feel free to modify and adapt this text to best represent yourself and your aspirations as a Backend Developer
+  Feel free to modify and adapt this text to best represent yourself and your aspirations as a Backend Developer
 
 <!--
 **gnituda05/gnituda05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
