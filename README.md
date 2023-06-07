@@ -1,9 +1,8 @@
 # Hello there! I'm Glenn 👋
 
-<div id="header" align="center">
-  <img src="https://tenor.com/view/programmer-gif-19019116" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<div class="tenor-gif-embed" data-postid="19019116" data-share-method="host" data-aspect-ratio="1.59204" data-width="100%"><a href="https://tenor.com/view/programmer-gif-19019116">Programmer GIF</a>from <a href="https://tenor.com/search/programmer-gifs">Programmer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 I am an enthusiastic Backend Developer with a strong focus on continuous learning and innovation. 
 My primary interests lie in exploring various techniques and technologies within the realms of NestJS and Python.
 
