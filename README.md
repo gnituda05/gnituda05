@@ -1,7 +1,7 @@
 # Hello there! I'm Glenn 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="150"/>
 </div>
 I am an enthusiastic Backend Developer with a strong focus on continuous learning and innovation. 
 My primary interests lie in exploring various techniques and technologies within the realms of NestJS and Python.
